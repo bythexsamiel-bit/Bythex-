@@ -1,0 +1,6 @@
+{
+  "name": "Bythex",
+  "description": "Bythex social media and creative suite powered by Gemini for intelligent text generation, image creation, stories, reels, and chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
